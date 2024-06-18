@@ -55,4 +55,3 @@ dependencies:
   - zfp=0.5.5=h9c3ff4c_8
   - zlib-ng=2.0.7=h0b41bf4_0
   - zstd=1.5.6=ha6fb4c9_0
-prefix: /global/homes/q/qt4627/.conda/envs/xgc_python_alex_p
